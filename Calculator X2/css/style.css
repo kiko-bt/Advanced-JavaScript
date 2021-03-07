@@ -1,0 +1,32 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.mainContainer {
+    margin: 50px;
+    text-align: center;
+}
+
+.btn {
+    width: 50px;
+}
+
+.btnsOperator {
+    width: 45px;
+}
+
+#equal {
+    width: 100px;
+}
+
+#textView {
+    width: 210px;
+    height: 30px;
+}
+
+#c {
+    width: 20px;
+}
+

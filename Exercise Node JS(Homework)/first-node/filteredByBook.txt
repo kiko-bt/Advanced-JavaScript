@@ -1,0 +1,47 @@
+3. Author: China Miéville Title: THE CITY & THE CITY 
+4. Author: Caitlín R. Kiernan Title: THE DROWNING GIRL 
+10. Author: China Miéville Title: THE SCAR 
+11. Author: Stephen Baxter Title: THE TIME SHIPS 
+15. Author: Neal Stephenson Title: THE DIAMOND AGE 
+18. Author: N. K. Jemisin Title: THE HUNDRED THOUSAND KINGDOMS 
+22. Author: Gene Wolfe Title: THE SWORD OF THE LICTOR 
+32. Author: Gene Wolfe Title: THE CLAW OF THE CONCILIATOR 
+34. Author: Ian McDonald Title: THE DERVISH HOUSE 
+35. Author: N. K. Jemisin Title: THE FIFTH SEASON 
+37. Author: Helene Wecker Title: THE GOLEM AND THE JINNI 
+38. Author: Margaret Atwood Title: THE HANDMAID'S TALE 
+40. Author: Julian May Title: THE MANY-COLORED LAND 
+42. Author: Neil Gaiman Title: THE OCEAN AT THE END OF THE LANE 
+47. Author: Gene Wolfe Title: THE SHADOW OF THE TORTURER 
+48. Author: R. A. MacAvoy Title: TEA WITH THE BLACK DRAGON 
+49. Author: Margo Lanagan Title: TENDER MORSELS 
+50. Author: Cixin Liu Title: THE THREE-BODY PROBLEM 
+51. Author: James Morrow Title: TOWING JEHOVAH 
+52. Author: Paolo Bacigalupi Title: THE WINDUP GIRL 
+53. Author: Michael Chabon Title: THE YIDDISH POLICEMEN'S UNION 
+65. Author: Ken MacLeod Title: THE CASSINI DIVISION 
+67. Author: Robert Charles Wilson Title: THE CHRONOLITHS 
+68. Author: Gene Wolfe Title: THE CITADEL OF THE AUTARCH 
+71. Author: Lois McMaster Bujold Title: THE CURSE OF CHALION 
+74. Author: William Gibson & Bruce Sterling Title: THE DIFFERENCE ENGINE 
+75. Author: Ursula K. Le Guin Title: THE DISPOSSESSED 
+79. Author: Ken MacLeod Title: THE EXECUTION CHANNEL 
+80. Author: Dan Simmons Title: THE FALL OF HYPERION 
+84. Author: Arthur C. Clarke Title: THE FOUNTAINS OF PARADISE 
+87. Author: Katherine Addison Title: THE GOBLIN EMPEROR 
+88. Author: Neil Gaiman Title: THE GRAVEYARD BOOK 
+95. Author: James Morrow Title: THE LAST WITCHFINDER 
+104. Author: Nalo Hopkinson Title: THE NEW MOON'S ARMS 
+106. Author: N. K. Jemisin Title: THE OBELISK GATE 
+108. Author: Ursula K. Le Guin Title: THE OTHER WIND 
+111. Author: William Gibson Title: THE PERIPHERAL 
+112. Author: David Brin Title: THE POSTMAN 
+114. Author: Ellen Kushner Title: THE PRIVILEGE OF THE SWORD 
+121. Author: Mary Doria Russell Title: THE SPARROW 
+125. Author: Robert Silverberg Title: THE STOCHASTIC MAN 
+127. Author: Saladin Ahmed Title: THRONE OF THE CRESCENT MOON 
+128. Author: Guy Gavriel Kay Title: TIGANA 
+129. Author: Gregory Benford Title: TIMESCAPE 
+131. Author: David Brin Title: THE UPLIFT WAR 
+135. Author: Wilson Tucker Title: THE YEAR OF THE QUIET SUN 
+136. Author: Kim Stanley Robinson Title: THE YEARS OF RICE AND SALT 
